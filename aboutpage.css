@@ -1,0 +1,199 @@
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box; 
+}
+.topnav {
+   background-color: #282828;
+   overflow: hidden;
+}
+.topnav a {
+   float: right;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 20px;
+   color: #f2f2f2;
+   text-decoration: none;
+   font-size: 20px;
+   font-family: 'Overpass', sans-serif;
+}
+.topnav a:hover {
+   background-color: #404040;
+}
+.topnav a.active {
+   color: #b3b3b3;
+}
+.keychains {
+    position: absolute;
+    width: 450px;
+    margin-top: 45px;
+    margin-left: 50px;
+}
+.august {
+   position: absolute;
+   width: 300px;
+   margin-top: 775px;
+   margin-left: 900px;
+}
+.map {
+   position: absolute;
+   width: 450px;
+   margin-top: 1700px;
+   margin-left: 50px;
+}
+.heading1 {
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 150px;
+    font-size: 50px;
+    font-family: 'Overpass', sans-serif;
+    color: #404040;
+}
+.paragraph1 {
+   position: absolute;
+    margin-left: 550px;
+    margin-top: 250px;
+    font-size: 25px;
+    font-family: 'Overpass', sans-serif, thin;
+    color: #404040;
+    text-align: center;
+}
+.heading2 {
+   position: absolute;
+   margin-left: 200px;
+   margin-top: 1000px;
+   font-size: 60px;
+   font-family: 'Overpass', sans-serif;
+   color: #404040;
+}
+.paragraph2 {
+   position: absolute;
+    margin-left: 110px;
+    margin-top: 1100px;
+    font-size: 25px;
+    font-family: 'Overpass', sans-serif, thin;
+    color: #404040;
+    text-align: center;
+}
+.heading3 {
+   position: absolute;
+   margin-left: 650px;
+   margin-top: 1800px;
+   font-size: 50px;
+   font-family: 'Overpass', sans-serif;
+   color: #404040;
+}
+.paragraph3 {
+  position: absolute;
+   margin-left: 520px;
+   margin-top: 1900px;
+   font-size: 25px;
+   font-family: 'Overpass', sans-serif, thin;
+   color: #404040;
+   text-align: center;
+}
+.footer {
+   position: sticky; 
+   margin-top: 2500px;
+   /* bottom:0;
+   left:0; */
+   width:100%;
+   height: 450px;
+   background-color: #404040;
+}
+.privacy {
+   position: absolute;
+   text-decoration: none;
+   color: #404040;
+}
+.arthoplogo2 {
+   position: absolute;
+   width: 90px;
+   margin-left: 2%;
+   margin-top: 8%;
+}
+.appstore2 {
+   position: absolute;
+   width: 90px;
+   margin-left: 11%;
+   margin-top: 8%;
+   
+}
+.playstore2 {
+   position: absolute;
+   width: 90px;
+   margin-left: 20%;
+   margin-top: 8%;
+   
+}
+.banner {
+   position: absolute;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50px;
+    font-family: 'Overpass', sans-serif;
+    color: #ffffff;
+}
+.banner2 {
+   position: absolute;
+    margin-left: 75%;
+    margin-top: 3%;
+    font-size: 25px;
+    font-family: 'Overpass', sans-serif;
+    color: #ffffff;
+}
+.line1 {
+   position: absolute;
+   margin-left: 75%;
+   margin-top: 8%;
+   font-size: 15px;
+   text-decoration: none;
+   font-family: 'Overpass', sans-serif;
+   color: #ffffff;
+
+}
+.line2 {
+   position: absolute;
+   margin-left: 75%;
+   margin-top: 13%;
+   font-size: 15px;
+   text-decoration: none;
+   font-family: 'Overpass', sans-serif;
+   color: #ffffff;
+
+}
+.line3 {
+   position: absolute;
+   margin-left: 75%;
+   margin-top: 18%;
+   font-size: 15px;
+   text-decoration: none;
+   font-family: 'Overpass', sans-serif;
+   color: #ffffff;
+
+}
+.index1 {
+   position: absolute;
+    margin-left: 2%;
+    margin-top: 27%;
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Overpass', sans-serif;
+    color: #b3b3b3;
+}
+.index2 {
+   position: absolute;
+   margin-left: 12%;
+   margin-top: 27%;
+   font-size: 15px;
+   text-decoration: none;
+   font-family: 'Overpass', sans-serif;
+   color: #b3b3b3;
+}
+a:hover {
+   color: #FF914D;
+   font-size: 16px;
+   text-decoration: underline;
+} 
+
+

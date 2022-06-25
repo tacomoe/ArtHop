@@ -1,0 +1,81 @@
+* {
+    margin: 0; 
+   padding: 0;
+   box-sizing: border-box; 
+}
+.topnav {
+   background-color: #282828;
+   overflow: hidden;
+}
+.topnav a {
+   float: right;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 20px;
+   color: #f2f2f2;
+   text-decoration: none;
+   font-size: 20px;
+   font-family: 'Overpass', sans-serif;
+}
+.topnav a:hover {
+   background-color: #404040;
+}
+.topnav a.active {
+   color: #b3b3b3;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px #404040;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+input[type=submit] {
+    background-color: #b3b3b3;
+    color: #f2f2f2;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #404040;
+}
+.contact {
+    position: absolute;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-top: 3%;
+    margin-left: 50%;
+    width: 600px;
+    font-family: 'Overpass', sans-serif;
+}
+.touch {
+    position: absolute;
+    margin-left: 11%;
+    margin-top: 15%;
+    font-size: 50px;
+    font-family: 'Overpass', sans-serif;
+    color: #282828;
+    
+}
+.community {
+  position: absolute;
+  margin-left: 3%;
+  margin-top: 22%;
+  font-size: 18px;
+  font-family: 'Overpass', sans-serif;
+  color: #404040;
+}
+.idea {
+  position: absolute;
+  margin-left: 51%;
+  margin-top: 1%;
+  font-size: 18px;
+  font-family: 'Overpass', sans-serif;
+  color: #404040;
+}

@@ -1,0 +1,89 @@
+* {
+     margin: 0; 
+    padding: 0;
+    box-sizing: border-box; 
+}
+.topnav {
+    background-color: #282828;
+    overflow: hidden;
+ }
+ .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px;
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Overpass', sans-serif;
+ }
+ .topnav a:hover {
+    background-color: #404040;
+}
+.topnav a.active {
+    color: #b3b3b3;
+}
+
+.iphone {
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 1%;
+    width: 375px;
+} 
+.fcac {
+    position: absolute;
+    margin-left: 1%;
+    margin-top: 1%;
+    width: 125px;
+
+}
+.poster {
+    position: absolute;
+    margin-left: 13%;
+    margin-top: 1%;
+    width: 85px;
+}
+.arthop {
+    margin-left: 44%;
+    margin-top: 15%;
+    width: 250px;
+    
+}
+.local {
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 15%;
+    font-size: 80px;
+    font-family: 'Overpass', sans-serif;
+    color: #282828;
+}
+.summary {
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 33%;
+    font-size: 20px;
+    font-family: 'Overpass', sans-serif;
+    color: #282828;
+}
+.appstore {
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 10%;
+    width: 200px;
+}
+.gplay {
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 25%;
+    width: 200px;
+}
+
+/* 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
+1. git status
+2. git add <fileName> (or) git add . (for all)
+3. git commit -m "message"
+4. git push origin <branch name> 
+
+
+~/.zshrc
+*/
